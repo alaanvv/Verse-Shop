@@ -6,6 +6,8 @@
 
 # Features
 
+- By some reason I've decided to make every id-related word 3 letters long
+  so that it feels less boring and more 1900's (bc)
 - Customizable
 - Register and edit items
 - Easy to modificate messages text
