@@ -10,7 +10,6 @@
   so that it feels less boring and more 1900's (bc)
 - Customizable
 - Register and edit items
-- Easy to modificate messages text
 - Payment made via Mercado Pago
 - Minimalist and easy-to-read code, so you can modificate
 
